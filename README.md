@@ -1,5 +1,6 @@
 # cbn_therapist
 Simple therapist script using Cutscenes.
+**Big thanks to Dzejkop#0001 for the QBCore conversion.**
 
 
 **PREVIEW:**
