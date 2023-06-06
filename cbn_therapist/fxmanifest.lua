@@ -6,11 +6,6 @@ game 'gta5'
 version '1.0.0'
 
 lua54 'yes'
-escrow_ignore {
-  'config.lua',
-  'locales/cs.lua',
-  'locales/en.lua',
-}
 
 shared_script {
   '@ox_lib/init.lua',
@@ -39,5 +34,3 @@ server_scripts {
 dependencies {
   'ox_lib' 
 }
-
-dependency '/assetpacks'
